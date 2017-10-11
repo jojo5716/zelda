@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a300ef1d4fe449449a63b66c3b6749f7
+timeCreated: 1507393809
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hylia Serif Beta
+  fontNames:
+  - Hylia Serif Beta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
